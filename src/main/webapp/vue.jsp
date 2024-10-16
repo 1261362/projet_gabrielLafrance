@@ -12,5 +12,6 @@
 </head>
 <body>
 <h2>Ajout de la vue</h2>
+<p>Faire un pipeline sur jentkins</p>
 </body>
 </html>
